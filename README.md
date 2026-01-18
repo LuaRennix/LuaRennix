@@ -44,9 +44,9 @@ func NewLuaRennix() *Developer {
 ## 🛠️ Tech Stack
 
 ### Languages
-![Go](https://img.shields.io/badge/Go-A+-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-A-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-B+-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-B+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Technologies & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
